@@ -14,7 +14,8 @@ https://github.com/BasKrueger/Not-Skystone/assets/147401575/52d904b3-d42a-4e3a-9
 Clone this repository and open the project folder using at least Unity Version 2021.3.1. Alternatively you can play the latest build of the prototype right [here](https://suchti0352.itch.io/not-skystones) in your browser.
 
 # Highlight: Model View Controller Pattern
+This prototype makes extensive use of the Model View Controller (short MVC) pattern. There are many different definitions out there for this specific Code pattern, but I oriented myself on the following guidelines: 
 <p align="center">
     <img src="readme/MVC.png" alt="MVC"><br>
 </p>
-This prototype makes extensive use of the Model View Controller (short MVC) pattern. Though mainly meant online games, it's still worth a consideration for turn based games. The core of this pattern is that the gamelogic (called Model) is completely encapsulated from the rest, only offering specifically designed interfaces that's used by the Input (called Controller). The current gamestate is then displayed by the View.
+The entire gamelogic (Model) is completely encapsulated from the rest, only offering specifically designed interfaces that's used by the Input (Controller). The Views responsibility is to display the latest state of the Model.
