@@ -3,7 +3,7 @@
     <img src="readme/Banner.PNG" alt="Not Skystone Banner"><br>
 </p>
 
-"Not Skystones" is a prototype clone of a minigame called ["Skystones"](https://skylanders.fandom.com/wiki/Skystones) from the Skylanders videogame series. This small project was made as a practical example of the MVC code pattern that I was learning about at that time.
+"Not Skystones" is a prototype clone of a minigame called ["Skystones"](https://skylanders.fandom.com/wiki/Skystones) from the Skylanders videogame series. This small project was made as a practical example of the MVC code pattern that I was learning about at the beginning of my <b>3. Semester </b> at the [S4G-School for Games](https://www.school4games.net/).
 
 # Gameplay
 https://github.com/BasKrueger/Not-Skystone/assets/147401575/52d904b3-d42a-4e3a-9048-9bfd0e11d749
